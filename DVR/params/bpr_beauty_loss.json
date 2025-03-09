@@ -1,0 +1,17 @@
+{
+    "epoch": 2000,
+    "batch_size": 1000,
+    "test_batch_size": 1000,
+    "valid_interval": 10,
+    "dve_update_intervl": 1,
+    "dve_print_interval": 100,
+    "load_model": true,
+    "bpr_lr": 0.001,
+    "dve_lr": 0.001,
+    "bpr_weight_decay": 0.001,
+    "dve_weight_decay": 0.001,
+    "weight_mode": "dot",
+    "h_dim": 10,
+    "gamma": 100,
+    "alpha": 0.001
+}
