@@ -3,7 +3,7 @@ This is our implementation for the paper:
 
 Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation
 
-at SDM, 2023
+at SDM, 2025
 
 In case that you have any difficulty about the implementation or you are interested in our work, please feel free to communicate with me by:
 
